@@ -28,15 +28,12 @@ Prompt engineering is currently more art than science. The best way to improve o
 
 The Jupyter Notebook accompanying this lesson provides a _sandbox_ environment where you can try out what you learn - as you go, or as part of the code challenge at the end. To execute the exercises you will need:
 
-1. An OpenAI API key - the service endpoint for a deployed LLM.
+1. An Azure OpenAI API key - the service endpoint for a deployed LLM.
 
 2. A Python Runtime - in which the Notebook can be executed.
 
 We have instrumented this repository with a _dev container_ that comes with a Python 3 runtime. Simply open the repo in GitHub Codespaces or on your local Docker Desktop, to activate the runtime automatically. Then open the notebook and select the Python 3.x kernel to prepare the Notebook for execution.
 
-The default notebook is set up for use with an OpenAI API Key. Simply copy the `.env.copy` file in the root of the folder to `.env` and update the `OPENAI_API_KEY=` line with your API key - and you're all set.
-
-The notebook comes with _starter_ exercises - but you are encouraged to add your own _Markdown_ (description) and _Code_ (prompt requests) sections to try out more examples or ideas - and build your intuition for prompt design.
 
 ## Our Startup
 
@@ -354,15 +351,6 @@ Congratulations! You made it to the end of the lesson! It's time to put some of 
 
 For our assignment, we'll be using a Jupyter Notebook with exercises you can complete interactively. You can also extend the Notebook with your own Markdown and Code cells to explore ideas and techniques on your own.
 
-### To get started, fork the repo, then
-
-- (Recommended) Launch GitHub Codespaces  
-- (Alternatively) Clone the repo to your local device and use it with Docker Desktop
-- (Alternatively) Open the Notebook with your preferred Notebook runtime environment.
-
-### Next, configure your environment variables
-
-- Copt the `.env.copy` file in repo root to `.env` and fill in the `OPENAI_API_KEY` value. You can find your API Key in your [OpenAI Dashboard](https://beta.openai.com/account/api-keys?WT.mc_id=academic-105485-koreyst).
 
 ### Next, open the Jupyter Notebook
 
@@ -390,10 +378,5 @@ A: 2, it's the best prompt as it provides details on "what" and goes into specif
 
 ## 🚀 Challenge
 
-See if you can leverage the "cue" technique with the prompt: Complete the sentence "Show me an image of red car of make Volvo and ". What does it respond with, and how would you improve it? 
+See if you can leverage the "cue" technique with the prompt: Complete the sentence "Show me how to improve the current education system in Canada. ". What does it respond with, and how would you improve it? 
 
-## Great Work! Continue Your Learning
-
-Want to learn more about different Prompt Engineering concepts? Go to the [contiuned learning page](../13-continued-learning/README.md?WT.mc_id=academic-105485-koreyst) to find other great resources on this topic.
-
-Head over to Lesson 5 where we will look at [advance prompting techniques](../05-advanced-prompts/README.md?WT.mc_id=academic-105485-koreyst)!
