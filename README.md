@@ -15,27 +15,41 @@
 - a challenge or assignment to apply your learning 
 - links to extra resources to continue your learning
 
-## Introduction (30 minutes)
-- Customer use-case
-- What is Azure OpenAI? An introduction to the AI models provided by Azure.
-- Setting up Azure OpenAI: A step-by-step guide to setting up an Azure OpenAI account and getting your API key.
-- Assignment: Build a story and assets how we sell to customer
+## Lesson 1: Introduction (30 minutes)
+- Introduction to the business scenario: our startup idea and mission.
+- Generative AI and how we landed on the current technology landscape.
+- Inner working of a large language model.
+- Main capabilities and practical use cases of Large Language Models.
 
-## Lesson 1: Basics of Azure OpenAI (1 hour)
-- Understanding the Azure OpenAI API: An overview of the API and its capabilities.
-- Making simple requests to the API: How to use your API key to make requests to the Azure OpenAI API.
-- Assignment: Write a script to make a request to the Azure OpenAI API. The request should generate a short piece of text based on a prompt.
+## Lesson 2: Exploring and comparing different llm's (30 minutes)
+- Different types of LLMs in the current landscape.
+- Testing, iterating, and comparing different models for your use case in Azure.
+- How to deploy an LLM.
 
-## Lesson 2: Building a Simple Chatbot with Azure OpenAI (1 hour)
-- Structuring input for a chatbot: How to structure the input to the API to create a chatbot.
-- Building a simple chatbot: A step-by-step guide to building a simple chatbot using the Azure OpenAI API.
-- Assignment: Improve the chatbot by adding more features. For example, you could add a feature that allows the chatbot to remember previous messages.
+## Lesson 3: Responsible AI (30 minutes)
+- Why you should prioritize Responsible AI when building Generative AI applications.
+- Core principles of Responsible AI and how they relate to Generative AI.
+- How to put these Responsible AI principles into practice through strategy and tooling.
 
-## Lesson 3: Advanced Features of Azure OpenAI (1 hour)
-- Advanced features of the Azure OpenAI API: An overview of the more advanced features of the API, such as fine-tuning.
-- Using these features in the chatbot: How to use these advanced features to improve your chatbot.
-- Assignment: Add an advanced feature to the chatbot. For example, you could add a feature that allows the chatbot to generate more creative responses.
+## Lesson 4: Prompt Engineering Fundamentals (30 minutes)
+- Explain what prompt engineering is and why it matters.
+- Describe the components of a prompt and how they are used.
+- Learn best practices and techniques for prompt engineering.
+- Apply learned techniques to real examples, using an OpenAI endpoint.
 
-## Final Demo and Q&A (30 minutes)
-- Demo of a more complex chatbot: A demonstration of a chatbot that uses the advanced features of the Azure OpenAI API.
-- Q&A session: An opportunity for students to ask questions about the material covered in the hackathon.
+## Lesson 5: Advanced Prompts (30 minutes)
+- Extend your knowledge of prompt engineering by applying different techniques to your prompts.
+- Configuring your prompts to vary the output
+
+## Lesson 6: Text Generation Apps (30 minutes)
+- Learn about the openai library and it's core concepts.
+- Build a text generation app using openai.
+- Understand how to use concepts like prompt, temperature, and tokens to build a text generation app.
+
+## Lesson 7: Building Chat Applications - Demo (1 hour)
+- Techniques for efficiently building and integrating chat applications.
+- How to apply customization and fine-tuning to applications.
+- Strategies and considerations to effectively monitor chat applications.
+- Demo
+
+

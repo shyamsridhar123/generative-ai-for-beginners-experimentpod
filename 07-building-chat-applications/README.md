@@ -178,7 +178,3 @@ Microsoft's approach to Responsible AI has identified six principles that should
 See [assignment](./notebook-azure-openai.ipynb?WT.mc_id=academic-105485-koreyst) it will take you through a series of exercises from running your first chat prompts, to classifying and summarizing text and more.
 
 ## Great Work! Continue the Journey
-
-After completing this lesson, check out our [Generative AI Learning collection](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) to continue leveling up your Generative AI knowledge!
-
-Head over to Lesson 8 to see how you can start  [building search applications](../08-building-search-applications/README.md?WT.mc_id=academic-105485-koreyst)!

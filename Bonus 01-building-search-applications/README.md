@@ -157,7 +157,3 @@ When you run the notebook, you'll be prompted to enter a query. The input box wi
 ![Input box for the user to input a query](./images/notebook-search.png?WT.mc_id=academic-105485-koreyst)
 
 ## Great Work! Continue Your Learning 
-
-After completing this lesson, check out our [Generative AI Learning collection](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) to continue leveling up your Generative AI knowledge!
-
-Head over to Lesson 9 where we will look at how to [build image generation applications](../09-building-image-applications/README.md?WT.mc_id=academic-105485-koreyst)!
